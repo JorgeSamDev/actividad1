@@ -1,7 +1,7 @@
-# Tu Nombre
+# Jorge
 - **Carrera:** Ingenieria en Sistemas Computacionales
 - **Semestre:** noveno
-- **Usuario: JorgeSamDev
+- **Usuario:** JorgeSamDev
 ## Competencias que aprendí
 - Configurar SSH
 - Clonar repositorios con Git
